@@ -1,0 +1,7 @@
+D:\Development\mc\obj\Release\MinecraftLibrary.csprojResolveAssemblyReference.cache
+D:\Development\mc\compiled\MinecraftLibrary.dll
+D:\Development\mc\compiled\MinecraftLibrary.pdb
+D:\Development\mc\compiled\Newtonsoft.Json.dll
+D:\Development\mc\compiled\Newtonsoft.Json.xml
+D:\Development\mc\obj\Release\MinecraftLibrary.dll
+D:\Development\mc\obj\Release\MinecraftLibrary.pdb

@@ -1,0 +1,13 @@
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\bin\Debug\MinecraftLibrary.dll
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\bin\Debug\MinecraftLibrary.pdb
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\obj\Debug\MinecraftLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\obj\Debug\MinecraftLibrary.dll
+C:\Users\Tobias\documents\visual studio 2015\Projects\TechPack Launcher\MinecraftLibrary\obj\Debug\MinecraftLibrary.pdb
+D:\Development\mc\bin\Debug\MinecraftLibrary.dll
+D:\Development\mc\bin\Debug\MinecraftLibrary.pdb
+D:\Development\mc\bin\Debug\Newtonsoft.Json.xml
+D:\Development\mc\obj\Debug\MinecraftLibrary.csprojResolveAssemblyReference.cache
+D:\Development\mc\obj\Debug\MinecraftLibrary.dll
+D:\Development\mc\obj\Debug\MinecraftLibrary.pdb
